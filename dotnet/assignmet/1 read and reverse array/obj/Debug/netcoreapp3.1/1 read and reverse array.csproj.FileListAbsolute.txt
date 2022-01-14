@@ -1,0 +1,13 @@
+/home/r/Desktop/projects/anudip-assing/Dotnet/assignmet/1 read and reverse array/obj/Debug/netcoreapp3.1/1 read and reverse array.csprojAssemblyReference.cache
+/home/r/Desktop/projects/anudip-assing/Dotnet/assignmet/1 read and reverse array/obj/Debug/netcoreapp3.1/1 read and reverse array.AssemblyInfoInputs.cache
+/home/r/Desktop/projects/anudip-assing/Dotnet/assignmet/1 read and reverse array/obj/Debug/netcoreapp3.1/1 read and reverse array.AssemblyInfo.cs
+/home/r/Desktop/projects/anudip-assing/Dotnet/assignmet/1 read and reverse array/obj/Debug/netcoreapp3.1/1 read and reverse array.csproj.CoreCompileInputs.cache
+/home/r/Desktop/projects/anudip-assing/Dotnet/assignmet/1 read and reverse array/bin/Debug/netcoreapp3.1/1 read and reverse array
+/home/r/Desktop/projects/anudip-assing/Dotnet/assignmet/1 read and reverse array/bin/Debug/netcoreapp3.1/1 read and reverse array.deps.json
+/home/r/Desktop/projects/anudip-assing/Dotnet/assignmet/1 read and reverse array/bin/Debug/netcoreapp3.1/1 read and reverse array.runtimeconfig.json
+/home/r/Desktop/projects/anudip-assing/Dotnet/assignmet/1 read and reverse array/bin/Debug/netcoreapp3.1/1 read and reverse array.runtimeconfig.dev.json
+/home/r/Desktop/projects/anudip-assing/Dotnet/assignmet/1 read and reverse array/bin/Debug/netcoreapp3.1/1 read and reverse array.dll
+/home/r/Desktop/projects/anudip-assing/Dotnet/assignmet/1 read and reverse array/bin/Debug/netcoreapp3.1/1 read and reverse array.pdb
+/home/r/Desktop/projects/anudip-assing/Dotnet/assignmet/1 read and reverse array/obj/Debug/netcoreapp3.1/1 read and reverse array.dll
+/home/r/Desktop/projects/anudip-assing/Dotnet/assignmet/1 read and reverse array/obj/Debug/netcoreapp3.1/1 read and reverse array.pdb
+/home/r/Desktop/projects/anudip-assing/Dotnet/assignmet/1 read and reverse array/obj/Debug/netcoreapp3.1/1 read and reverse array.genruntimeconfig.cache
