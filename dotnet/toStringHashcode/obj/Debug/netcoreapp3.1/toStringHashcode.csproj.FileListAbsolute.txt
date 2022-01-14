@@ -1,0 +1,13 @@
+/home/r/Desktop/projects/anudip-assing/Dotnet/toStringHashcode/bin/Debug/netcoreapp3.1/toStringHashcode
+/home/r/Desktop/projects/anudip-assing/Dotnet/toStringHashcode/bin/Debug/netcoreapp3.1/toStringHashcode.deps.json
+/home/r/Desktop/projects/anudip-assing/Dotnet/toStringHashcode/bin/Debug/netcoreapp3.1/toStringHashcode.runtimeconfig.json
+/home/r/Desktop/projects/anudip-assing/Dotnet/toStringHashcode/bin/Debug/netcoreapp3.1/toStringHashcode.runtimeconfig.dev.json
+/home/r/Desktop/projects/anudip-assing/Dotnet/toStringHashcode/bin/Debug/netcoreapp3.1/toStringHashcode.dll
+/home/r/Desktop/projects/anudip-assing/Dotnet/toStringHashcode/bin/Debug/netcoreapp3.1/toStringHashcode.pdb
+/home/r/Desktop/projects/anudip-assing/Dotnet/toStringHashcode/obj/Debug/netcoreapp3.1/toStringHashcode.csprojAssemblyReference.cache
+/home/r/Desktop/projects/anudip-assing/Dotnet/toStringHashcode/obj/Debug/netcoreapp3.1/toStringHashcode.AssemblyInfoInputs.cache
+/home/r/Desktop/projects/anudip-assing/Dotnet/toStringHashcode/obj/Debug/netcoreapp3.1/toStringHashcode.AssemblyInfo.cs
+/home/r/Desktop/projects/anudip-assing/Dotnet/toStringHashcode/obj/Debug/netcoreapp3.1/toStringHashcode.csproj.CoreCompileInputs.cache
+/home/r/Desktop/projects/anudip-assing/Dotnet/toStringHashcode/obj/Debug/netcoreapp3.1/toStringHashcode.dll
+/home/r/Desktop/projects/anudip-assing/Dotnet/toStringHashcode/obj/Debug/netcoreapp3.1/toStringHashcode.pdb
+/home/r/Desktop/projects/anudip-assing/Dotnet/toStringHashcode/obj/Debug/netcoreapp3.1/toStringHashcode.genruntimeconfig.cache

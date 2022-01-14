@@ -1,0 +1,13 @@
+/home/r/Desktop/projects/anudip-assing/Dotnet/isAsSwap/bin/Debug/netcoreapp3.1/isAsSwap
+/home/r/Desktop/projects/anudip-assing/Dotnet/isAsSwap/bin/Debug/netcoreapp3.1/isAsSwap.deps.json
+/home/r/Desktop/projects/anudip-assing/Dotnet/isAsSwap/bin/Debug/netcoreapp3.1/isAsSwap.runtimeconfig.json
+/home/r/Desktop/projects/anudip-assing/Dotnet/isAsSwap/bin/Debug/netcoreapp3.1/isAsSwap.runtimeconfig.dev.json
+/home/r/Desktop/projects/anudip-assing/Dotnet/isAsSwap/bin/Debug/netcoreapp3.1/isAsSwap.dll
+/home/r/Desktop/projects/anudip-assing/Dotnet/isAsSwap/bin/Debug/netcoreapp3.1/isAsSwap.pdb
+/home/r/Desktop/projects/anudip-assing/Dotnet/isAsSwap/obj/Debug/netcoreapp3.1/isAsSwap.csprojAssemblyReference.cache
+/home/r/Desktop/projects/anudip-assing/Dotnet/isAsSwap/obj/Debug/netcoreapp3.1/isAsSwap.AssemblyInfoInputs.cache
+/home/r/Desktop/projects/anudip-assing/Dotnet/isAsSwap/obj/Debug/netcoreapp3.1/isAsSwap.AssemblyInfo.cs
+/home/r/Desktop/projects/anudip-assing/Dotnet/isAsSwap/obj/Debug/netcoreapp3.1/isAsSwap.csproj.CoreCompileInputs.cache
+/home/r/Desktop/projects/anudip-assing/Dotnet/isAsSwap/obj/Debug/netcoreapp3.1/isAsSwap.dll
+/home/r/Desktop/projects/anudip-assing/Dotnet/isAsSwap/obj/Debug/netcoreapp3.1/isAsSwap.pdb
+/home/r/Desktop/projects/anudip-assing/Dotnet/isAsSwap/obj/Debug/netcoreapp3.1/isAsSwap.genruntimeconfig.cache

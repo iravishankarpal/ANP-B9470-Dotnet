@@ -1,0 +1,13 @@
+/home/r/Desktop/projects/anudip-assing/Dotnet/regularExpresion/bin/Debug/netcoreapp3.1/regularExpresion
+/home/r/Desktop/projects/anudip-assing/Dotnet/regularExpresion/bin/Debug/netcoreapp3.1/regularExpresion.deps.json
+/home/r/Desktop/projects/anudip-assing/Dotnet/regularExpresion/bin/Debug/netcoreapp3.1/regularExpresion.runtimeconfig.json
+/home/r/Desktop/projects/anudip-assing/Dotnet/regularExpresion/bin/Debug/netcoreapp3.1/regularExpresion.runtimeconfig.dev.json
+/home/r/Desktop/projects/anudip-assing/Dotnet/regularExpresion/bin/Debug/netcoreapp3.1/regularExpresion.dll
+/home/r/Desktop/projects/anudip-assing/Dotnet/regularExpresion/bin/Debug/netcoreapp3.1/regularExpresion.pdb
+/home/r/Desktop/projects/anudip-assing/Dotnet/regularExpresion/obj/Debug/netcoreapp3.1/regularExpresion.csprojAssemblyReference.cache
+/home/r/Desktop/projects/anudip-assing/Dotnet/regularExpresion/obj/Debug/netcoreapp3.1/regularExpresion.AssemblyInfoInputs.cache
+/home/r/Desktop/projects/anudip-assing/Dotnet/regularExpresion/obj/Debug/netcoreapp3.1/regularExpresion.AssemblyInfo.cs
+/home/r/Desktop/projects/anudip-assing/Dotnet/regularExpresion/obj/Debug/netcoreapp3.1/regularExpresion.csproj.CoreCompileInputs.cache
+/home/r/Desktop/projects/anudip-assing/Dotnet/regularExpresion/obj/Debug/netcoreapp3.1/regularExpresion.dll
+/home/r/Desktop/projects/anudip-assing/Dotnet/regularExpresion/obj/Debug/netcoreapp3.1/regularExpresion.pdb
+/home/r/Desktop/projects/anudip-assing/Dotnet/regularExpresion/obj/Debug/netcoreapp3.1/regularExpresion.genruntimeconfig.cache

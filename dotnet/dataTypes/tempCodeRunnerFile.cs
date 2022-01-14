@@ -1,0 +1,1 @@
+ult Is: "; Console.WriteLine(Str + Obj.Method(value1, value2)); Console.ReadLine(); } }

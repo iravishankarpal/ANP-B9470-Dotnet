@@ -1,0 +1,13 @@
+/home/r/Desktop/projects/anudip-assing/Dotnet/TryCatchFinally /bin/Debug/netcoreapp3.1/TryCatchFinally
+/home/r/Desktop/projects/anudip-assing/Dotnet/TryCatchFinally /bin/Debug/netcoreapp3.1/TryCatchFinally.deps.json
+/home/r/Desktop/projects/anudip-assing/Dotnet/TryCatchFinally /bin/Debug/netcoreapp3.1/TryCatchFinally.runtimeconfig.json
+/home/r/Desktop/projects/anudip-assing/Dotnet/TryCatchFinally /bin/Debug/netcoreapp3.1/TryCatchFinally.runtimeconfig.dev.json
+/home/r/Desktop/projects/anudip-assing/Dotnet/TryCatchFinally /bin/Debug/netcoreapp3.1/TryCatchFinally.dll
+/home/r/Desktop/projects/anudip-assing/Dotnet/TryCatchFinally /bin/Debug/netcoreapp3.1/TryCatchFinally.pdb
+/home/r/Desktop/projects/anudip-assing/Dotnet/TryCatchFinally /obj/Debug/netcoreapp3.1/TryCatchFinally.csprojAssemblyReference.cache
+/home/r/Desktop/projects/anudip-assing/Dotnet/TryCatchFinally /obj/Debug/netcoreapp3.1/TryCatchFinally.AssemblyInfoInputs.cache
+/home/r/Desktop/projects/anudip-assing/Dotnet/TryCatchFinally /obj/Debug/netcoreapp3.1/TryCatchFinally.AssemblyInfo.cs
+/home/r/Desktop/projects/anudip-assing/Dotnet/TryCatchFinally /obj/Debug/netcoreapp3.1/TryCatchFinally.csproj.CoreCompileInputs.cache
+/home/r/Desktop/projects/anudip-assing/Dotnet/TryCatchFinally /obj/Debug/netcoreapp3.1/TryCatchFinally.dll
+/home/r/Desktop/projects/anudip-assing/Dotnet/TryCatchFinally /obj/Debug/netcoreapp3.1/TryCatchFinally.pdb
+/home/r/Desktop/projects/anudip-assing/Dotnet/TryCatchFinally /obj/Debug/netcoreapp3.1/TryCatchFinally.genruntimeconfig.cache

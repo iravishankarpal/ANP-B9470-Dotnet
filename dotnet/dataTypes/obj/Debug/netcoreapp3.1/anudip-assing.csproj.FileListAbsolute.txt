@@ -1,0 +1,13 @@
+/home/r/Desktop/projects/anudip-assing/bin/Debug/netcoreapp3.1/anudip-assing
+/home/r/Desktop/projects/anudip-assing/bin/Debug/netcoreapp3.1/anudip-assing.deps.json
+/home/r/Desktop/projects/anudip-assing/bin/Debug/netcoreapp3.1/anudip-assing.runtimeconfig.json
+/home/r/Desktop/projects/anudip-assing/bin/Debug/netcoreapp3.1/anudip-assing.runtimeconfig.dev.json
+/home/r/Desktop/projects/anudip-assing/bin/Debug/netcoreapp3.1/anudip-assing.dll
+/home/r/Desktop/projects/anudip-assing/bin/Debug/netcoreapp3.1/anudip-assing.pdb
+/home/r/Desktop/projects/anudip-assing/obj/Debug/netcoreapp3.1/anudip-assing.csprojAssemblyReference.cache
+/home/r/Desktop/projects/anudip-assing/obj/Debug/netcoreapp3.1/anudip-assing.AssemblyInfoInputs.cache
+/home/r/Desktop/projects/anudip-assing/obj/Debug/netcoreapp3.1/anudip-assing.AssemblyInfo.cs
+/home/r/Desktop/projects/anudip-assing/obj/Debug/netcoreapp3.1/anudip-assing.csproj.CoreCompileInputs.cache
+/home/r/Desktop/projects/anudip-assing/obj/Debug/netcoreapp3.1/anudip-assing.dll
+/home/r/Desktop/projects/anudip-assing/obj/Debug/netcoreapp3.1/anudip-assing.pdb
+/home/r/Desktop/projects/anudip-assing/obj/Debug/netcoreapp3.1/anudip-assing.genruntimeconfig.cache

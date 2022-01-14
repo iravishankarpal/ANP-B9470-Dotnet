@@ -1,0 +1,13 @@
+/home/r/Desktop/projects/anudip-assing/Dotnet/stingsArray/bin/Debug/netcoreapp3.1/stingsArray
+/home/r/Desktop/projects/anudip-assing/Dotnet/stingsArray/bin/Debug/netcoreapp3.1/stingsArray.deps.json
+/home/r/Desktop/projects/anudip-assing/Dotnet/stingsArray/bin/Debug/netcoreapp3.1/stingsArray.runtimeconfig.json
+/home/r/Desktop/projects/anudip-assing/Dotnet/stingsArray/bin/Debug/netcoreapp3.1/stingsArray.runtimeconfig.dev.json
+/home/r/Desktop/projects/anudip-assing/Dotnet/stingsArray/bin/Debug/netcoreapp3.1/stingsArray.dll
+/home/r/Desktop/projects/anudip-assing/Dotnet/stingsArray/bin/Debug/netcoreapp3.1/stingsArray.pdb
+/home/r/Desktop/projects/anudip-assing/Dotnet/stingsArray/obj/Debug/netcoreapp3.1/stingsArray.csprojAssemblyReference.cache
+/home/r/Desktop/projects/anudip-assing/Dotnet/stingsArray/obj/Debug/netcoreapp3.1/stingsArray.AssemblyInfoInputs.cache
+/home/r/Desktop/projects/anudip-assing/Dotnet/stingsArray/obj/Debug/netcoreapp3.1/stingsArray.AssemblyInfo.cs
+/home/r/Desktop/projects/anudip-assing/Dotnet/stingsArray/obj/Debug/netcoreapp3.1/stingsArray.csproj.CoreCompileInputs.cache
+/home/r/Desktop/projects/anudip-assing/Dotnet/stingsArray/obj/Debug/netcoreapp3.1/stingsArray.dll
+/home/r/Desktop/projects/anudip-assing/Dotnet/stingsArray/obj/Debug/netcoreapp3.1/stingsArray.pdb
+/home/r/Desktop/projects/anudip-assing/Dotnet/stingsArray/obj/Debug/netcoreapp3.1/stingsArray.genruntimeconfig.cache
