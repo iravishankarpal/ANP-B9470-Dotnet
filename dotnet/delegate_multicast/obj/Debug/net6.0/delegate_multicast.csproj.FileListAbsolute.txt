@@ -1,0 +1,15 @@
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\delegate_multicast\bin\Debug\net6.0\delegate_multicast.exe
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\delegate_multicast\bin\Debug\net6.0\delegate_multicast.deps.json
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\delegate_multicast\bin\Debug\net6.0\delegate_multicast.runtimeconfig.json
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\delegate_multicast\bin\Debug\net6.0\delegate_multicast.dll
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\delegate_multicast\bin\Debug\net6.0\ref\delegate_multicast.dll
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\delegate_multicast\bin\Debug\net6.0\delegate_multicast.pdb
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\delegate_multicast\obj\Debug\net6.0\delegate_multicast.csproj.AssemblyReference.cache
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\delegate_multicast\obj\Debug\net6.0\delegate_multicast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\delegate_multicast\obj\Debug\net6.0\delegate_multicast.AssemblyInfoInputs.cache
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\delegate_multicast\obj\Debug\net6.0\delegate_multicast.AssemblyInfo.cs
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\delegate_multicast\obj\Debug\net6.0\delegate_multicast.csproj.CoreCompileInputs.cache
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\delegate_multicast\obj\Debug\net6.0\delegate_multicast.dll
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\delegate_multicast\obj\Debug\net6.0\ref\delegate_multicast.dll
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\delegate_multicast\obj\Debug\net6.0\delegate_multicast.pdb
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\delegate_multicast\obj\Debug\net6.0\delegate_multicast.genruntimeconfig.cache
