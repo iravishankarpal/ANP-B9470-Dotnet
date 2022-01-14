@@ -1,0 +1,59 @@
+<!-- dropdown nav list -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>dropdown</title>
+    <style>
+        nav{
+            display: block;
+            position: absolute;
+            top: 0;
+            width: 100%;
+            background-color: green;
+        }
+        li{
+            list-style-type: none;
+            display: inline;
+            margin-right: 20px;
+            font-size:25px;
+
+        }
+        li:hover ul   {
+            display: block;
+             position: absolute;
+              left: 200px;
+              background-color: green;
+              margin: 0;
+            }
+            li:hover ul li a:link{
+                display: block;
+                margin-left:-30px;}
+
+
+            a:link{
+                color: #fff;
+                 text-decoration: none; 
+            }
+            a:hover {
+                color: orange; 
+                text-decoration: none;
+            }
+    </style>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Materials</a></li>
+            <li><a href="#">Componet</a></li>
+            <li><a href="#">Pastyear</a></li>
+            <li><a href="#">About</a></li>
+        </ul>
+    </nav>
+</body>
+</html>
