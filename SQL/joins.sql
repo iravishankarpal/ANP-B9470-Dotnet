@@ -1,3 +1,13 @@
+create table department(
+dep_id int primary key not null,
+dep_name varchar(20) not null);
+
+
+insert into department values (1,'compes'), (2,'java'), (3,'python'), (4,'c++') ,(5,'ruby');
+insert into department values (6,'ravi');
+select * from employee;
+
+
 -- inner  join
 insert into department values (1,'compes'), (2,'java'), (3,'python'), (4,'c++') ,(5,'ruby');
 
