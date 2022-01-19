@@ -1,5 +1,5 @@
+create database ravi;
 
-select * from ravi;
 
 
 
@@ -10,7 +10,7 @@ employee_phoneno int not null,
 employee_city varchar(20) not null);
 
 
-select * from employee;
 
 insert into employee values (1,'ravi',88888888,'ambernat');
 
+select * from employee;
