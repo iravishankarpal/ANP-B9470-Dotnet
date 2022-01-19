@@ -1,0 +1,17 @@
+﻿employee_id employee_name        dep_name
+----------- -------------------- --------------------
+1           ravi                 ravi
+2           aeha                 NULL
+3           tooo                 NULL
+4           fooo                 NULL
+5           dhamu                NULL
+NULL        NULL                 compes
+NULL        NULL                 java
+NULL        NULL                 python
+NULL        NULL                 c++
+NULL        NULL                 ruby
+
+(10 rows affected)
+
+
+Completion time: 2022-01-19T13:48:06.0377869+05:30
