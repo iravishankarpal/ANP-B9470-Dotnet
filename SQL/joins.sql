@@ -1,3 +1,5 @@
+
+--new table
 create table department(
 dep_id int primary key not null,
 dep_name varchar(20) not null);
