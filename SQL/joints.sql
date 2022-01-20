@@ -23,6 +23,19 @@ from employee AS e1 inner join department AS d1 on e1.employee_id = d1.dep_id or
 select e1.employee_id,e1.employee_name,d1.dep_name 
 from employee as e1 full join department as d1 on e1.employee_name = d1.dep_name;
 
+-- employee_id employee_name        dep_name
+-- ----------- -------------------- --------------------
+-- 1           ravi                 ravi
+-- 2           aeha                 NULL
+-- 3           tooo                 NULL
+-- 4           fooo                 NULL
+-- 5           dhamu                NULL
+-- NULL        NULL                 compes
+-- NULL        NULL                 java
+-- NULL        NULL                 python
+-- NULL        NULL                 c++
+-- NULL        NULL                 ruby
+
 -- left join
 select e1.employee_id,e1.employee_name,d1.dep_name
  from employee as e1 left join department as d1 on e1.employee_name = d1.dep_name;
