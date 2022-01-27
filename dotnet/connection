@@ -21,7 +21,7 @@ namespace Connection_With_Database
         private void button1_Click(object sender, EventArgs e)
         {
 
-            SqlConnection con = new SqlConnection(@"Data Source=LAPTOP-NRID5437\SQLEXPRESS;Initial Catalog=Pradeep;Integrated Security=True");
+            SqlConnection con = new SqlConnection(@"Data Source=r\SQLEXPRESS;Initial Catalog=ravi;Integrated Security=True");
             try
             {
                 con.Open();
