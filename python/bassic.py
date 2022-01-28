@@ -1,4 +1,4 @@
-# to prent some thing on screen
+# to print some thing on screen
 print("hellow")
 
 # varibale
@@ -6,11 +6,11 @@ print("hellow")
 x =  6
 print(x)
 
-# string formatiign
+# string formatting
 
 print(f'hellow world i ma {x}')
 
-# sting concatinaiton
+# sting contatination
 # y = input('gibe a name')   # input 
 # print('hellow world ' + y ) 
 
@@ -21,7 +21,7 @@ print(f'''   hello world have greatly take by all the programes
 
 
 # types of data
-# stry
+
 x = "ravi"
 print(type(x) ,'eg' , f'{x}')
 
@@ -88,7 +88,7 @@ x = "my name is ravi"
 if "ravi" in x:
     print(f"""yes ravi is present in "{x}" sting""" )
 
-print('ravi' not in x ) #gitve buolen
+print('ravi' not in x ) #give buolen
 
 
 # string slicing 
@@ -99,7 +99,7 @@ print(b.lower())
 print(b.replace('ravi','ram'))
 
 
-# there is alotes of methon in list
+# there is alot of methon in list
 
 
 # +  - * / %  are arthimatic opearators
@@ -133,7 +133,7 @@ x = "ravi"
 if "r" in x :
     print("r in given strign")
 elif('y' in x):
-    print("y in the given strng")
+    print("y in the given string")
 else:
     print("nothing")
 
@@ -171,7 +171,7 @@ except:
     print('some error')
 
 finally:
-    print("its me whill be print all the time")
+    print("its me i will be print all the time")
 
 
 
