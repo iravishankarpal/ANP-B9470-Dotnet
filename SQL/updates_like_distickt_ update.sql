@@ -88,13 +88,13 @@ employee_id employee_name        employee_phoneno employee_city
 
 select  employee_name,employee_id,employee_city from employee order by employee_city desc;
 
-employee_name        employee_id employee_city
--------------------- ----------- --------------------
-aeha                 2           west
-dhamu                5           south
-fooo                 4           north
-tooo                 3           esat
-ravi                 1           ambernat
+-- employee_name        employee_id employee_city
+-- -------------------- ----------- --------------------
+-- aeha                 2           west
+-- dhamu                5           south
+-- fooo                 4           north
+-- tooo                 3           esat
+-- ravi                 1           ambernat
 
 
 select  employee_name,employee_id,employee_city from employee order by employee_name asc;

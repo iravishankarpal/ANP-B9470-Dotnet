@@ -103,7 +103,7 @@ print(b.replace('ravi','ram'))
 
 
 # +  - * / %  are arthimatic opearators
-# % is modulust give sreminiter of diviiosn
+# % is modulust give sreminiter of diviiosn thins are used 
 
 # assingment operators are 
 # = 
@@ -118,6 +118,7 @@ print(b.replace('ravi','ram'))
 # <=
 # ===
 # !=
+
 
 # bitwise operators 
 # and  &
@@ -174,4 +175,9 @@ finally:
 
 
 
-# next oppos
+# next oppos  
+
+
+
+
+

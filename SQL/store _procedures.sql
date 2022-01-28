@@ -46,7 +46,6 @@ begin
 	where employee_name = 'ravi'
 end
 
-proc_employ
 proc_employ 123
 
 
