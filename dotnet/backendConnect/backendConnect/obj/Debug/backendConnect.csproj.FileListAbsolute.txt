@@ -1,0 +1,16 @@
+C:\Users\ravi\source\repos\backendConnect\backendConnect\obj\Debug\backendConnect.csproj.AssemblyReference.cache
+C:\Users\ravi\source\repos\backendConnect\backendConnect\obj\Debug\backendConnect.csproj.SuggestedBindingRedirects.cache
+C:\Users\ravi\source\repos\backendConnect\backendConnect\obj\Debug\backendConnect.csproj.CoreCompileInputs.cache
+C:\Users\ravi\source\repos\backendConnect\backendConnect\bin\Debug\backendConnect.exe.config
+C:\Users\ravi\source\repos\backendConnect\backendConnect\bin\Debug\backendConnect.exe
+C:\Users\ravi\source\repos\backendConnect\backendConnect\bin\Debug\backendConnect.pdb
+C:\Users\ravi\source\repos\backendConnect\backendConnect\obj\Debug\backendConnect.exe
+C:\Users\ravi\source\repos\backendConnect\backendConnect\obj\Debug\backendConnect.pdb
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\backendConnect\backendConnect\bin\Debug\backendConnect.exe.config
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\backendConnect\backendConnect\bin\Debug\backendConnect.exe
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\backendConnect\backendConnect\bin\Debug\backendConnect.pdb
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\backendConnect\backendConnect\obj\Debug\backendConnect.csproj.AssemblyReference.cache
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\backendConnect\backendConnect\obj\Debug\backendConnect.csproj.SuggestedBindingRedirects.cache
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\backendConnect\backendConnect\obj\Debug\backendConnect.csproj.CoreCompileInputs.cache
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\backendConnect\backendConnect\obj\Debug\backendConnect.exe
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\backendConnect\backendConnect\obj\Debug\backendConnect.pdb
