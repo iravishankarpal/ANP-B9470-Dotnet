@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace basic
+namespace ConsoleApp1
 {
-    internal class Class1
+     class Class1
     {
         public Class1()
          {
