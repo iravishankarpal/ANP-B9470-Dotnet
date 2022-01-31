@@ -1,0 +1,15 @@
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\consoleapp\consoleapp\bin\Debug\net6.0\consoleapp.exe
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\consoleapp\consoleapp\bin\Debug\net6.0\consoleapp.deps.json
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\consoleapp\consoleapp\bin\Debug\net6.0\consoleapp.runtimeconfig.json
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\consoleapp\consoleapp\bin\Debug\net6.0\consoleapp.dll
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\consoleapp\consoleapp\bin\Debug\net6.0\ref\consoleapp.dll
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\consoleapp\consoleapp\bin\Debug\net6.0\consoleapp.pdb
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\consoleapp\consoleapp\obj\Debug\net6.0\consoleapp.csproj.AssemblyReference.cache
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\consoleapp\consoleapp\obj\Debug\net6.0\consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\consoleapp\consoleapp\obj\Debug\net6.0\consoleapp.AssemblyInfoInputs.cache
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\consoleapp\consoleapp\obj\Debug\net6.0\consoleapp.AssemblyInfo.cs
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\consoleapp\consoleapp\obj\Debug\net6.0\consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\consoleapp\consoleapp\obj\Debug\net6.0\consoleapp.dll
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\consoleapp\consoleapp\obj\Debug\net6.0\ref\consoleapp.dll
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\consoleapp\consoleapp\obj\Debug\net6.0\consoleapp.pdb
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\consoleapp\consoleapp\obj\Debug\net6.0\consoleapp.genruntimeconfig.cache
