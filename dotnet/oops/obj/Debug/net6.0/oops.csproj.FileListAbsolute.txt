@@ -1,0 +1,15 @@
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\oops\bin\Debug\net6.0\oops.exe
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\oops\bin\Debug\net6.0\oops.deps.json
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\oops\bin\Debug\net6.0\oops.runtimeconfig.json
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\oops\bin\Debug\net6.0\oops.dll
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\oops\bin\Debug\net6.0\ref\oops.dll
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\oops\bin\Debug\net6.0\oops.pdb
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\oops\obj\Debug\net6.0\oops.csproj.AssemblyReference.cache
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\oops\obj\Debug\net6.0\oops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\oops\obj\Debug\net6.0\oops.AssemblyInfoInputs.cache
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\oops\obj\Debug\net6.0\oops.AssemblyInfo.cs
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\oops\obj\Debug\net6.0\oops.csproj.CoreCompileInputs.cache
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\oops\obj\Debug\net6.0\oops.dll
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\oops\obj\Debug\net6.0\ref\oops.dll
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\oops\obj\Debug\net6.0\oops.pdb
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\oops\obj\Debug\net6.0\oops.genruntimeconfig.cache
