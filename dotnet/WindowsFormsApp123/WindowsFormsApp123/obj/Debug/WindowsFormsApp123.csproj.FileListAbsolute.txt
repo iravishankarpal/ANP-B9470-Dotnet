@@ -1,0 +1,16 @@
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\WindowsFormsApp123\WindowsFormsApp123\bin\Debug\WindowsFormsApp123.exe.config
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\WindowsFormsApp123\WindowsFormsApp123\bin\Debug\WindowsFormsApp123.exe
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\WindowsFormsApp123\WindowsFormsApp123\bin\Debug\WindowsFormsApp123.pdb
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\WindowsFormsApp123\WindowsFormsApp123\bin\Debug\EntityFramework.dll
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\WindowsFormsApp123\WindowsFormsApp123\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\WindowsFormsApp123\WindowsFormsApp123\bin\Debug\EntityFramework.xml
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\WindowsFormsApp123\WindowsFormsApp123\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\WindowsFormsApp123\WindowsFormsApp123\obj\Debug\WindowsFormsApp123.csproj.AssemblyReference.cache
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\WindowsFormsApp123\WindowsFormsApp123\obj\Debug\WindowsFormsApp123.csproj.SuggestedBindingRedirects.cache
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\WindowsFormsApp123\WindowsFormsApp123\obj\Debug\WindowsFormsApp123.Form1.resources
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\WindowsFormsApp123\WindowsFormsApp123\obj\Debug\WindowsFormsApp123.Properties.Resources.resources
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\WindowsFormsApp123\WindowsFormsApp123\obj\Debug\WindowsFormsApp123.csproj.GenerateResource.cache
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\WindowsFormsApp123\WindowsFormsApp123\obj\Debug\WindowsFormsApp123.csproj.CoreCompileInputs.cache
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\WindowsFormsApp123\WindowsFormsApp123\obj\Debug\WindowsFormsApp123.csproj.CopyComplete
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\WindowsFormsApp123\WindowsFormsApp123\obj\Debug\WindowsFormsApp123.exe
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\WindowsFormsApp123\WindowsFormsApp123\obj\Debug\WindowsFormsApp123.pdb

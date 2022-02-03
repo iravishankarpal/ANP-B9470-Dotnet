@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TECHNETModelStoreContainer" CdmEntityContainer="TECHNETEntities">
+    <EntitySetMapping Name="Articoli">
+      <EntityTypeMapping TypeName="TECHNETModel.Articoli">
+        <MappingFragment StoreEntitySet="Articoli">
+          <ScalarProperty Name="IdArticolo" ColumnName="IdArticolo" />
+          <ScalarProperty Name="CodArt" ColumnName="CodArt" />
+          <ScalarProperty Name="DesArt" ColumnName="DesArt" />
+          <ScalarProperty Name="CodFamiglia" ColumnName="CodFamiglia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Famiglie">
+      <EntityTypeMapping TypeName="TECHNETModel.Famiglie">
+        <MappingFragment StoreEntitySet="Famiglie">
+          <ScalarProperty Name="CodFamiglia" ColumnName="CodFamiglia" />
+          <ScalarProperty Name="DesFamiglia" ColumnName="DesFamiglia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

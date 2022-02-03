@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TECHNETModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Articoli">
+    <Key>
+      <PropertyRef Name="IdArticolo" />
+    </Key>
+    <Property Name="IdArticolo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CodArt" Type="String" MaxLength="25" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DesArt" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CodFamiglia" Type="String" MaxLength="6" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Famiglie">
+    <Key>
+      <PropertyRef Name="CodFamiglia" />
+    </Key>
+    <Property Name="CodFamiglia" Type="String" MaxLength="6" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DesFamiglia" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="TECHNETEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Articoli" EntityType="Self.Articoli" />
+    <EntitySet Name="Famiglie" EntityType="Self.Famiglie" />
+  </EntityContainer>
+</Schema>
