@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="TECHNETModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Articoli">
+          <Key>
+            <PropertyRef Name="IdArticolo" />
+          </Key>
+          <Property Name="IdArticolo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="CodArt" Type="nvarchar" MaxLength="25" Nullable="false" />
+          <Property Name="DesArt" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="CodFamiglia" Type="nvarchar" MaxLength="6" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Famiglie">
+          <Key>
+            <PropertyRef Name="CodFamiglia" />
+          </Key>
+          <Property Name="CodFamiglia" Type="nvarchar" MaxLength="6" Nullable="false" />
+          <Property Name="DesFamiglia" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="TECHNETModelStoreContainer">
+          <EntitySet Name="Articoli" EntityType="Self.Articoli" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Famiglie" EntityType="Self.Famiglie" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="TECHNETModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Articoli">
+          <Key>
+            <PropertyRef Name="IdArticolo" />
+          </Key>
+          <Property Name="IdArticolo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="CodArt" Type="String" MaxLength="25" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="DesArt" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CodFamiglia" Type="String" MaxLength="6" FixedLength="false" Unicode="true" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Famiglie">
+          <Key>
+            <PropertyRef Name="CodFamiglia" />
+          </Key>
+          <Property Name="CodFamiglia" Type="String" MaxLength="6" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="DesFamiglia" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="TECHNETEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Articoli" EntityType="Self.Articoli" />
+          <EntitySet Name="Famiglie" EntityType="Self.Famiglie" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="TECHNETModelStoreContainer" CdmEntityContainer="TECHNETEntities">
+          <EntitySetMapping Name="Articoli">
+            <EntityTypeMapping TypeName="TECHNETModel.Articoli">
+              <MappingFragment StoreEntitySet="Articoli">
+                <ScalarProperty Name="IdArticolo" ColumnName="IdArticolo" />
+                <ScalarProperty Name="CodArt" ColumnName="CodArt" />
+                <ScalarProperty Name="DesArt" ColumnName="DesArt" />
+                <ScalarProperty Name="CodFamiglia" ColumnName="CodFamiglia" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Famiglie">
+            <EntityTypeMapping TypeName="TECHNETModel.Famiglie">
+              <MappingFragment StoreEntitySet="Famiglie">
+                <ScalarProperty Name="CodFamiglia" ColumnName="CodFamiglia" />
+                <ScalarProperty Name="DesFamiglia" ColumnName="DesFamiglia" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
