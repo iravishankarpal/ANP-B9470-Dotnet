@@ -27,5 +27,6 @@ namespace WindowsFormsApp123
     
         public virtual DbSet<Articoli> Articoli { get; set; }
         public virtual DbSet<Famiglie> Famiglie { get; set; }
+        public virtual DbSet<sysdiagram> sysdiagrams { get; set; }
     }
 }

@@ -7,6 +7,7 @@
       <Diagram DiagramId="935a24b983b041b99a48471d4d7ec13e" Name="Diagram1">
         <EntityTypeShape EntityType="TECHNETModel.Articoli" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
         <EntityTypeShape EntityType="TECHNETModel.Famiglie" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TECHNETModel.sysdiagram" Width="1.5" PointX="5" PointY="1" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
