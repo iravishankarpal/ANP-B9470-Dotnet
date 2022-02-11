@@ -1,0 +1,48 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Data.SqlClient;
+using System.Data;
+
+namespace Connection_With_Database
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+            SqlConnection con = new SqlConnection(@"Data Source=LAPTOP-NRID5437\SQLEXPRESS;Initial Catalog=Pradeep;Integrated Security=True");
+            try
+            {
+                con.Open();
+                String queery="Select * from Registration";
+                SqlCommand cmd= new SqlCommand(queery,con);
+                SqlDataReader sdr = cmd.ExecuteReader();
+                while (sdr.Read())
+                {
+                    MessageBox.Show(sdr.GetValue(0) + " - " + sdr.GetValue(1) + " - " + sdr.GetValue(2) + " - " + sdr.GetValue(3) + " - " + sdr.GetValue(4));
+                }
+            }
+            catch
+            {
+
+                MessageBox.Show("Connection Cant open");
+
+
+            }
+            }
+         
+        }
+    }
+
