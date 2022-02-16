@@ -1,0 +1,7 @@
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\WcfTst\WcfTst\bin\WcfTst.dll.config
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\WcfTst\WcfTst\bin\WcfTst.dll
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\WcfTst\WcfTst\bin\WcfTst.pdb
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\WcfTst\WcfTst\obj\Debug\WcfTst.csproj.AssemblyReference.cache
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\WcfTst\WcfTst\obj\Debug\WcfTst.csproj.CoreCompileInputs.cache
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\WcfTst\WcfTst\obj\Debug\WcfTst.dll
+C:\Users\ravi\Desktop\ANP-dotnet\dotnet\WcfTst\WcfTst\obj\Debug\WcfTst.pdb

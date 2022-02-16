@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniWcf", "MiniWcf\MiniWcf.csproj", "{C0E41BE5-06AD-4DA1-948D-A89A503E4ADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0E41BE5-06AD-4DA1-948D-A89A503E4ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E41BE5-06AD-4DA1-948D-A89A503E4ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E41BE5-06AD-4DA1-948D-A89A503E4ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E41BE5-06AD-4DA1-948D-A89A503E4ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBB10F7F-828C-437C-BF31-C2D1558EBAC6}
+	EndGlobalSection
+EndGlobal

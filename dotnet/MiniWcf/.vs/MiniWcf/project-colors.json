@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c0e41be5-06ad-4da1-948d-a89a503e4add": {
+      "ProjectGuid": "c0e41be5-06ad-4da1-948d-a89a503e4add",
+      "DisplayName": "MiniWcf",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="c94edaa0-c4f2-475c-88aa-e9cc673bfb4a" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:62100/Tst.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Tst.xsd" MetadataType="Schema" ID="42a0cbef-a877-4168-9033-3957ba5bc9fd" SourceId="1" SourceUrl="http://localhost:62100/Tst.svc?xsd=xsd2" />
+    <MetadataFile FileName="Tst1.xsd" MetadataType="Schema" ID="0a7eae0a-bb29-4cc2-85bb-05bd46050b00" SourceId="1" SourceUrl="http://localhost:62100/Tst.svc?xsd=xsd0" />
+    <MetadataFile FileName="Tst.wsdl" MetadataType="Wsdl" ID="404fee77-480d-4338-8b93-98b0f4c6be6f" SourceId="1" SourceUrl="http://localhost:62100/Tst.svc?wsdl" />
+    <MetadataFile FileName="Tst.disco" MetadataType="Disco" ID="bf15c129-02e4-4bd1-9499-637c9bf43595" SourceId="1" SourceUrl="http://localhost:62100/Tst.svc?disco" />
+    <MetadataFile FileName="Tst2.xsd" MetadataType="Schema" ID="379b05aa-a9cd-4bfe-b7f4-2d7dd69f67fa" SourceId="1" SourceUrl="http://localhost:62100/Tst.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

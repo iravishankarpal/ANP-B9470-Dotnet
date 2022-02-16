@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication1.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+  
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+      <title>c# corner</title>  
+    <link href="css/my.css" rel="stylesheet" />  
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">  
+    </asp:ContentPlaceHolder>
+        <link rel="stylesheet" type="text/css" href="my.css">  
+
+</head>
+<body>
+    <header id="header">  
+<h1>c# corner</h1>  
+</header>  
+<nav id="nav">  
+    <ul>  
+        <li><a href="home.aspx">Home</a></li>  
+        <li><a href="#">About</a></li>  
+        <li><a href="#">Article</a></li>  
+        <li><a href="#">Contact</a></li>  
+    </ul>  
+</nav>  
+<aside id="side">  
+    <h1>news</h1>  
+    <a href="#"><p>creating html website</p></a>  
+    <a href="#"><p>learn css</p></a>  
+    <a href="#">learn c#</a>  
+</aside>  
+  
+  
+    <div id="con">  
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">  
+          
+        </asp:ContentPlaceHolder>  
+    </div>  
+  
+  
+<footer id="footer">  
+    copyright @c# corner  
+</footer>  
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
